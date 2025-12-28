@@ -12,6 +12,6 @@ pypdf>=3.17.0
 
 # Environment management
 python-dotenv>=1.0.0
-
+langchain-core
 # Optional: For better performance with FAISS
 # faiss-gpu>=1.7.4  # Uncomment if you have GPU support
