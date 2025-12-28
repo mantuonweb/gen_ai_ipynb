@@ -1,0 +1,17 @@
+# Core dependencies
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+langchain-text-splitters>=0.0.1
+
+# Vector store
+faiss-cpu>=1.7.4
+
+# PDF processing
+pypdf>=3.17.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Optional: For better performance with FAISS
+# faiss-gpu>=1.7.4  # Uncomment if you have GPU support
